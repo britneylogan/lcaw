@@ -11,11 +11,11 @@ It acts as a shared source of truth for everything that connects the brand’s d
 ---
 
 ## 📁 Folder Structure
-/fonts → Brand typefaces (web-optimized WOFF/WOFF2)
-/assets → Shared graphics, SVGs, and visuals
-/components → Shopify & Framer code components
-/snippets → Reusable HTML/Liquid/CSS snippets
-/docs → Brand guides, notes, and reference files
+- /fonts → Brand typefaces (web-optimized WOFF/WOFF2)
+- /assets → Shared graphics, SVGs, and visuals
+- /components → Shopify & Framer code components
+- /snippets → Reusable HTML/Liquid/CSS snippets
+- /docs → Brand guides, notes, and reference files
 
 ---
 
