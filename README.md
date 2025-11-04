@@ -38,5 +38,5 @@ It acts as a shared source of truth for everything that connects the brand’s d
 ## ✍️ Author
 **Britney Logan**  
 Creative Direction, Design & Digital Strategy
-britney@lcaw.clinic • dev@lcaw.clinic
+[email britney](britney@lcaw.clinic) • [dev email](dev@lcaw.clinic)
 [lcaw.clinic](https://lcaw.clinic) • [lcaw.shop](https://lcaw.shop)
